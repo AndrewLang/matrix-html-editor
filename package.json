@@ -1,0 +1,32 @@
+{
+  "name": "matrix-html-editor",
+  "version": "1.0.0",
+  "description": "HTML WYIWYG Editor implemented with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewLang/matrix-html-editor.git"
+  },
+  "author": "Andy Lang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewLang/matrix-html-editor/issues"
+  },
+  "homepage": "https://github.com/AndrewLang/matrix-html-editor#readme",
+  "devDependencies": {
+    "@types/chai": "4.1.7",
+    "@types/mocha": "5.2.6",
+    "shelljs": "0.8.3",
+    "chalk": "2.4.2",
+    "nodemon": "1.18.10",
+    "mocha": "6.0.1",
+    "chai": "4.2.0",
+    "gulp": "4.0.0",
+    "gulp-typescript": "5.0.0",
+    "ts-node": "8.0.2",
+    "typescript": "3.3.3333"
+  }
+}
