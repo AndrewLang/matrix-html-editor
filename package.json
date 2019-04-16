@@ -20,6 +20,9 @@
     "url": "https://github.com/AndrewLang/matrix-html-editor/issues"
   },
   "homepage": "https://github.com/AndrewLang/matrix-html-editor#readme",
+  "dependencies": {
+    "@matrixrepublic/di":"1.0.4"
+  },
   "devDependencies": {
     "@types/chai": "4.1.7",
     "@types/mocha": "5.2.6",
